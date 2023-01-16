@@ -1,0 +1,7 @@
+{
+  "/api/Autenticacion/*":{
+    "target": "https://apicore20230115123106.azurewebsites.net",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
